@@ -1,1 +1,2 @@
-# Credit_Approval_Prediction
+# Credit Approval Prediction
+## Kredi Onay Tahmini
